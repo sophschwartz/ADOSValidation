@@ -12,7 +12,7 @@ Open data sharing has the incredibly potential to improve our research productiv
 
 <b>Project Objectives:</b>
 
-We sought to validate ADOS algorithm items that capture core features of autism with a larger dataset, and take this opportunity to highlight the value of open science data sharing. We invite others to use our analyses as a blueprint for their own exploration of open-access ADOS data.
+We sought to validate ADOS algorithm items that capture core features of autism with a larger dataset, and take this opportunity to highlight the value of open science data sharing. We invite others to use our analyses as a blueprint for their own exploration of open-access ADOS data. At the time of our analyses, we had access to over 10,000 samples that met our criteria for having non-missing data. Over 20,000 samples were in the initial downloaded data.
 
 <b>Data Access:</b>
 To request the ADOS data we used in our analyses, go to https://ndar.nih.gov/.
